@@ -1,0 +1,6 @@
+langgraph
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
+numpy
