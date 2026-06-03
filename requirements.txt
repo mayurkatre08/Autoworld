@@ -1,4 +1,5 @@
 langgraph
+tavily-python
 sentence-transformers
 faiss-cpu
 groq
