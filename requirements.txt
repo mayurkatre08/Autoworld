@@ -8,3 +8,4 @@ groq
 python-dotenv
 numpy
 langchain_groq
+langchain_huggingface
