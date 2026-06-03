@@ -1,5 +1,7 @@
 langgraph
 tavily-python
+langchain
+langchain-community
 sentence-transformers
 faiss-cpu
 groq
